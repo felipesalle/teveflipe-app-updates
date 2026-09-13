@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2.0",
-  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.2.0/app-armeabi-v7a-debug.apk",
-  "changelog": "• Regreso directo a Inicio al salir de películas.\n• Nuevo menú de Ajustes: versión, dispositivo y botón de actualización manual.\n• © 2026 TeVeFLIPE."
+  "versionCode": 4,
+  "versionName": "1.2.1",
+  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.2.1/app-armeabi-v7a-debug.apk",
+  "changelog": "• Botón Cerrar en Ajustes rediseñado y sin cortes de texto.\n• Identificador de Dispositivo visible para soporte y activación de testers.\n• Nuevo diálogo de Aviso Legal y Privacidad de Datos 100% local."
 }
