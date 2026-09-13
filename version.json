@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1.0",
-  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.1.0/app-armeabi-v7a-debug.apk",
-  "changelog": "Versión inicial estable con streaming nativo de películas y series españolas."
+  "versionCode": 3,
+  "versionName": "1.2.0",
+  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.2.0/app-armeabi-v7a-debug.apk",
+  "changelog": "• Regreso directo a Inicio al salir de películas.\n• Nuevo menú de Ajustes: versión, dispositivo y botón de actualización manual.\n• © 2026 TeVeFLIPE."
 }
