@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "1.2.1",
-  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.2.1/app-armeabi-v7a-debug.apk",
-  "changelog": "• Botón Cerrar en Ajustes rediseñado y sin cortes de texto.\n• Identificador de Dispositivo visible para soporte y activación de testers.\n• Nuevo diálogo de Aviso Legal y Privacidad de Datos 100% local."
+  "versionCode": 5,
+  "versionName": "1.2.2",
+  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.2.2/app-armeabi-v7a-debug.apk",
+  "changelog": "• Ajustes integrado directamente en la barra superior.\n• Mando a distancia instantáneo en reproductor con nuevo HUD visual.\n• Mayor contraste y sombra oscura en iconos seleccionados.\n• Botón Atrás en inicio sale al sistema Android TV."
 }
