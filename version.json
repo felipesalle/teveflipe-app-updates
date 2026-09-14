@@ -1,6 +1,6 @@
 {
-  "versionCode": 16,
-  "versionName": "1.3.3",
-  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.3.3/app-armeabi-v7a-debug.apk",
-  "changelog": "• Carga ultra-rápida de búfer restaurada con streaming continuo nativo de Telegram.\n• Corrección de carátulas y metadatos en TMDb: coincidencia exacta y filtro por año de estreno (resuelve carátulas como Clark 2022).\n• Limpieza preventiva de espacio en disco antes de reproducir para proteger dispositivos con poco almacenamiento.\n• Cancelación inmediata de descargas en segundo plano al cerrar el reproductor."
+  "versionCode": 17,
+  "versionName": "1.3.4",
+  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.3.4/app-armeabi-v7a-debug.apk",
+  "changelog": "• Soporte inteligente para memorias USB/OTG: usa automáticamente el pendrive si tiene más espacio libre.\n• Margen de seguridad de 450 MB: previene bloqueos del sistema avisando si una película no cabe antes de iniciar.\n• Foco de alto contraste en azul celeste y animación suave para control remoto en menús, portadas e historial.\n• Botón atrás mejorado en búsqueda: borra el texto primero y vuelve a inicio sin cerrar la aplicación.\n• Ajustes con desplazamiento vertical completo y margen de pantalla (anti-overscan).\n• Opción para activar o silenciar los sonidos de navegación del mando a distancia."
 }
