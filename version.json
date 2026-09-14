@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "1.2.9",
-  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.2.9/app-armeabi-v7a-debug.apk",
-  "changelog": "• Corrección de arranque en Modo Demo: la app respeta de inmediato el rol y carga únicamente los canales de prueba sin mostrar contenido VIP previo en caché.\n• Menú de Ajustes con scroll vertical: permite navegar con el mando hacia abajo para acceder a 'Cambiar Canales' y todas las opciones.\n• Búsqueda inmediata de actualizaciones sin retardo de CDN."
+  "versionCode": 13,
+  "versionName": "1.3.0",
+  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.3.0/app-armeabi-v7a-debug.apk",
+  "changelog": "• Aislamiento estricto de catálogo Demo vs VIP.\n• Filtro en 'Seguir viendo': el historial oculta videos no autorizados para el rol.\n• Transición en tiempo real: al cambiar de Demo a Cliente/VIP en la web, la TV actualiza el catálogo en segundos automáticamente sin reiniciar la app.\n• Conexión garantizada a canales Demo para nuevos dispositivos (Fire TV y Android TV)."
 }
