@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "1.2.8",
-  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.2.8/app-armeabi-v7a-debug.apk",
-  "changelog": "• Auto-suscripción transparente: los usuarios nuevos se unen automáticamente a los canales Demo sin tener que hacer nada.\n• Transición fluida entre Demo y VIP: al cambiar el rol del cliente en el panel web, la app se suscribe a los repositorios oficiales y se da de baja de los canales de prueba de manera automática.\n• Salida automática de los repositorios VIP si una cuenta expira."
+  "versionCode": 12,
+  "versionName": "1.2.9",
+  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.2.9/app-armeabi-v7a-debug.apk",
+  "changelog": "• Corrección de arranque en Modo Demo: la app respeta de inmediato el rol y carga únicamente los canales de prueba sin mostrar contenido VIP previo en caché.\n• Menú de Ajustes con scroll vertical: permite navegar con el mando hacia abajo para acceder a 'Cambiar Canales' y todas las opciones.\n• Búsqueda inmediata de actualizaciones sin retardo de CDN."
 }
