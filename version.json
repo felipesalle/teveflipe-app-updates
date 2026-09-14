@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.2.4",
-  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.2.4/app-armeabi-v7a-debug.apk",
-  "changelog": "• Foco ultra-visible de alto contraste con resplandor cian y escala 1.10x para televisores.\n• Efecto de sonido nativo (clic auditivo) al navegar con el mando D-Pad.\n• Corrección de ciclo de vida con VLC y reproductores externos (progreso guardado y cierre limpio de ExoPlayer).\n• Nueva pestaña 'Historial' en la barra superior con opción de vaciado y reanudación.\n• Menú contextual por pulsación prolongada (Long-Press OK) en Continuar Viendo.\n• Telemetría de sesiones y dispositivos en Firebase Realtime Database."
+  "versionCode": 8,
+  "versionName": "1.2.5",
+  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.2.5/app-armeabi-v7a-debug.apk",
+  "changelog": "• Corrección del botón Ajustes en barra superior: espaciado optimizado y sin división en 2 líneas.\n• Navegación D-Pad vertical fluida hacia los videos del Historial.\n• Sonido 'bip / clic' garantizado por volumen multimedia (STREAM_MUSIC) en todos los televisores (Sony Bravia, Xiaomi, Philips).\n• Corrección de pulsación prolongada en Continuar Viendo: abre el menú contextual sin iniciar reproducción involuntaria.\n• Corrección en motor de sincronización de series para títulos con '×' y episodios al inicio."
 }
