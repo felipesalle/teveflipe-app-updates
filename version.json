@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.2.5",
-  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.2.5/app-armeabi-v7a-debug.apk",
-  "changelog": "• Corrección del botón Ajustes en barra superior: espaciado optimizado y sin división en 2 líneas.\n• Navegación D-Pad vertical fluida hacia los videos del Historial.\n• Sonido 'bip / clic' garantizado por volumen multimedia (STREAM_MUSIC) en todos los televisores (Sony Bravia, Xiaomi, Philips).\n• Corrección de pulsación prolongada en Continuar Viendo: abre el menú contextual sin iniciar reproducción involuntaria.\n• Corrección en motor de sincronización de series para títulos con '×' y episodios al inicio."
+  "versionCode": 9,
+  "versionName": "1.2.6",
+  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.2.6/app-armeabi-v7a-debug.apk",
+  "changelog": "• Corrección definitiva de pulsación en Continuar viendo: el foco se mantiene fijo sin saltar a 'Inicio' y el menú contextual abre sin reproducir el video.\n• Compatibilidad mejorada del actualizador en Amazon Fire TV Stick con permisos de fuentes desconocidas y almacenamiento seguro."
 }
