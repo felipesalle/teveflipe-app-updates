@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "1.2.6",
-  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.2.6/app-armeabi-v7a-debug.apk",
-  "changelog": "• Corrección definitiva de pulsación en Continuar viendo: el foco se mantiene fijo sin saltar a 'Inicio' y el menú contextual abre sin reproducir el video.\n• Compatibilidad mejorada del actualizador en Amazon Fire TV Stick con permisos de fuentes desconocidas y almacenamiento seguro."
+  "versionCode": 10,
+  "versionName": "1.2.7",
+  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.2.7/app-armeabi-v7a-debug.apk",
+  "changelog": "• Sistema de roles automáticos (Tester Demo / Cliente VIP) administrables en tiempo real desde el panel web.\n• Filtrado dinámico de catálogos: los testers solo ven canales Demo de prueba, y los clientes VIP disfrutan de los repositorios completos sin duplicidades.\n• Pantalla de aviso de suscripción/prueba vencida para cuentas expiradas.\n• Badge distintivo de cuenta en la cabecera e información de suscripción en Ajustes."
 }
