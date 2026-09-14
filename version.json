@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.2.3",
-  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.2.3/app-armeabi-v7a-debug.apk",
-  "changelog": "• Soporte completo para 2FA (contraseña en la nube de Telegram).\n• Teclado virtual en pantalla para mandos de Android TV.\n• Corrección de cuelgues al iniciar sesión con cuentas con verificación en dos pasos."
+  "versionCode": 7,
+  "versionName": "1.2.4",
+  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.2.4/app-armeabi-v7a-debug.apk",
+  "changelog": "• Foco ultra-visible de alto contraste con resplandor cian y escala 1.10x para televisores.\n• Efecto de sonido nativo (clic auditivo) al navegar con el mando D-Pad.\n• Corrección de ciclo de vida con VLC y reproductores externos (progreso guardado y cierre limpio de ExoPlayer).\n• Nueva pestaña 'Historial' en la barra superior con opción de vaciado y reanudación.\n• Menú contextual por pulsación prolongada (Long-Press OK) en Continuar Viendo.\n• Telemetría de sesiones y dispositivos en Firebase Realtime Database."
 }
