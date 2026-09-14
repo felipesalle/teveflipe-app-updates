@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "1.3.2",
-  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.3.2/app-armeabi-v7a-debug.apk",
-  "changelog": "• Blindaje contra error de poco espacio en disco en Fire TV: streaming dinámico acotado a 45 MB.\n• Watchdog en tiempo real con purga preventiva y advertencia limpia en pantalla.\n• Corrección de carátulas y metadatos en TMDb: coincidencia exacta por título y filtro por año de estreno (evita confusiones como Clark vs Superman).\n• Cancelación inmediata de descargas huérfanas al salir del reproductor o cerrar la app."
+  "versionCode": 16,
+  "versionName": "1.3.3",
+  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.3.3/app-armeabi-v7a-debug.apk",
+  "changelog": "• Carga ultra-rápida de búfer restaurada con streaming continuo nativo de Telegram.\n• Corrección de carátulas y metadatos en TMDb: coincidencia exacta y filtro por año de estreno (resuelve carátulas como Clark 2022).\n• Limpieza preventiva de espacio en disco antes de reproducir para proteger dispositivos con poco almacenamiento.\n• Cancelación inmediata de descargas en segundo plano al cerrar el reproductor."
 }
