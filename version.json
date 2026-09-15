@@ -1,6 +1,6 @@
 {
-  "versionCode": 20,
-  "versionName": "1.3.7",
-  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.3.7/app-armeabi-v7a-debug.apk",
-  "changelog": "• Máquina de estados TDLib corregida con desbloqueo inmediato de base de datos.\n• Transición fluida entre Login QR y Teléfono sin errores de solicitud abortada ni 400 Bad Request.\n• Sincronización real de canales con mapa acumulativo (no más pérdida de canales).\n• Guardián de almacenamiento dinámico (Storage Watchdog) para proteger Fire TV Stick.\n• Eliminación de condición de carrera y supresión total de datos de prueba (Big Buck Bunny)."
+  "versionCode": 21,
+  "versionName": "1.3.8",
+  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.3.8/app-armeabi-v7a-debug.apk",
+  "changelog": "• Rediseño gráfico integral estilo Xuper TV con barra lateral (Inicio, Películas, Series, Kids, Mi Cuenta).\n• Rendimiento ultra ligero con renderizado por pestañas (ahorro de hasta 60% de RAM).\n• Posters verticales 2:3 con escala suave y borde brillante cian/verde.\n• Banner Hero 16:9 dinámico con valoración y reproducción rápida.\n• Panel de Ajustes a 2 columnas con purga de caché y sonidos de navegación.\n• Blindaje técnico anti-crashes con largeHeap y servidor local protegido."
 }
