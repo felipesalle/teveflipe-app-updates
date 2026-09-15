@@ -1,6 +1,6 @@
 {
-  "versionCode": 21,
-  "versionName": "1.3.8",
-  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.3.8/app-armeabi-v7a-debug.apk",
-  "changelog": "• Rediseño gráfico integral estilo Xuper TV con barra lateral (Inicio, Películas, Series, Kids, Mi Cuenta).\n• Rendimiento ultra ligero con renderizado por pestañas (ahorro de hasta 60% de RAM).\n• Posters verticales 2:3 con escala suave y borde brillante cian/verde.\n• Banner Hero 16:9 dinámico con valoración y reproducción rápida.\n• Panel de Ajustes a 2 columnas con purga de caché y sonidos de navegación.\n• Blindaje técnico anti-crashes con largeHeap y servidor local protegido."
+  "versionCode": 22,
+  "versionName": "1.3.9",
+  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.3.9/app-armeabi-v7a-debug.apk",
+  "changelog": "• Blindaje crítico de base de datos TDLib en la purga de caché.\n• Protección estricta de archivos de sesión (*.binlog*, *.sqlite*, *.lock*).\n• Eliminación del cierre forzado y pérdida de sesión al pulsar Limpiar Caché.\n• Restricción del limpiador a subcarpetas exclusivas de vídeos y documentos.\n• Interfaz Xuper TV con navegación lateral y ahorro del 60% de memoria RAM."
 }
