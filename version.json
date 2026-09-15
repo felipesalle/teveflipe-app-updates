@@ -1,6 +1,6 @@
 {
-  "versionCode": 18,
-  "versionName": "1.3.5",
-  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.3.5/app-armeabi-v7a-debug.apk",
-  "changelog": "• Ajustes integrados como pestaña completa de navegación superior: acceso rápido y visible a toda tu configuración.\n• Corrección de almacenamiento: comprobación preventiva ajustada para streaming en fragmentos (evita falsos avisos de espacio insuficiente).\n• Botón de Cerrar Sesión de Telegram en Ajustes para cambiar o reconectar cuenta fácilmente.\n• Inclusión de canales personales de Telegram incluso en modo Demostración.\n• Saneamiento y validación automática del número de teléfono en el inicio de sesión."
+  "versionCode": 19,
+  "versionName": "1.3.6",
+  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.3.6/app-armeabi-v7a-debug.apk",
+  "changelog": "• Blindaje estricto de inicio de sesión: la app jamás entra al catálogo si no hay una sesión activa de Telegram.\n• Reinicio automático y limpio del cliente TDLib al cerrar sesión (evita errores de petición abortada).\n• Indicador visual de carga y botón para regenerar código QR en la pantalla de bienvenida.\n• Soporte robusto para inicio de sesión por número de teléfono con código internacional."
 }
