@@ -1,6 +1,6 @@
 {
-  "versionCode": 17,
-  "versionName": "1.3.4",
-  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.3.4/app-armeabi-v7a-debug.apk",
-  "changelog": "• Soporte inteligente para memorias USB/OTG: usa automáticamente el pendrive si tiene más espacio libre.\n• Margen de seguridad de 450 MB: previene bloqueos del sistema avisando si una película no cabe antes de iniciar.\n• Foco de alto contraste en azul celeste y animación suave para control remoto en menús, portadas e historial.\n• Botón atrás mejorado en búsqueda: borra el texto primero y vuelve a inicio sin cerrar la aplicación.\n• Ajustes con desplazamiento vertical completo y margen de pantalla (anti-overscan).\n• Opción para activar o silenciar los sonidos de navegación del mando a distancia."
+  "versionCode": 18,
+  "versionName": "1.3.5",
+  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.3.5/app-armeabi-v7a-debug.apk",
+  "changelog": "• Ajustes integrados como pestaña completa de navegación superior: acceso rápido y visible a toda tu configuración.\n• Corrección de almacenamiento: comprobación preventiva ajustada para streaming en fragmentos (evita falsos avisos de espacio insuficiente).\n• Botón de Cerrar Sesión de Telegram en Ajustes para cambiar o reconectar cuenta fácilmente.\n• Inclusión de canales personales de Telegram incluso en modo Demostración.\n• Saneamiento y validación automática del número de teléfono en el inicio de sesión."
 }
