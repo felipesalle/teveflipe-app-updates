@@ -1,6 +1,6 @@
 {
-  "versionCode": 22,
-  "versionName": "1.3.9",
-  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.3.9/app-armeabi-v7a-debug.apk",
-  "changelog": "• Blindaje crítico de base de datos TDLib en la purga de caché.\n• Protección estricta de archivos de sesión (*.binlog*, *.sqlite*, *.lock*).\n• Eliminación del cierre forzado y pérdida de sesión al pulsar Limpiar Caché.\n• Restricción del limpiador a subcarpetas exclusivas de vídeos y documentos.\n• Interfaz Xuper TV con navegación lateral y ahorro del 60% de memoria RAM."
+  "versionCode": 23,
+  "versionName": "1.4.0",
+  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.4.0/app-armeabi-v7a-debug.apk",
+  "changelog": "• Rediseño cinematográfico inmersivo estilo Apple TV / Xuper TV (Full-Bleed a pantalla completa).\n• Debounce de 250ms en Hero Backdrop: navegación ultra fluida con el mando a 60 FPS sin tirones.\n• Menú lateral flotante translúcido sin bordes celestes duros ni cortes visuales.\n• Botones cápsula ('Reproducir' destacado y 'Reproductor Externo' con borde sutil).\n• Curva de aceleración FastOutSlowInEasing (180ms) en pósters con pivotOffsets.\n• Jerarquía tipográfica moderna con año, puntuación y sinopsis depurada."
 }
