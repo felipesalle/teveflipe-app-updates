@@ -1,6 +1,6 @@
 {
-  "versionCode": 23,
-  "versionName": "1.4.0",
-  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.4.0/app-armeabi-v7a-debug.apk",
-  "changelog": "• Rediseño cinematográfico inmersivo estilo Apple TV / Xuper TV (Full-Bleed a pantalla completa).\n• Debounce de 250ms en Hero Backdrop: navegación ultra fluida con el mando a 60 FPS sin tirones.\n• Menú lateral flotante translúcido sin bordes celestes duros ni cortes visuales.\n• Botones cápsula ('Reproducir' destacado y 'Reproductor Externo' con borde sutil).\n• Curva de aceleración FastOutSlowInEasing (180ms) en pósters con pivotOffsets.\n• Jerarquía tipográfica moderna con año, puntuación y sinopsis depurada."
+  "versionCode": 24,
+  "versionName": "1.4.1",
+  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.4.1/app-armeabi-v7a-debug.apk",
+  "changelog": "• Corrección crítica de cierre forzado al terminar de escanear los canales de Telegram.\n• Eliminación del conflicto de compatibilidad en carruseles horizontales.\n• Estabilidad 100% garantizada con LazyRow nativo y foco seguro.\n• Rediseño cinematográfico completo estilo Apple TV / Xuper TV con 60 FPS y debounce."
 }
