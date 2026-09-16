@@ -1,6 +1,6 @@
 {
-  "versionCode": 26,
-  "versionName": "1.4.3",
-  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.4.3/app-armeabi-v7a-debug.apk",
-  "changelog": "• Corrección crítica de navegación D-pad: se eliminó el salto involuntario del cursor hacia el botón de 'Reproducir' al explorar carruseles de películas, series o contenidos infantiles.\n• Navegación totalmente fluida y estable a 60 FPS con foco retenido donde esté el usuario."
+  "versionCode": 27,
+  "versionName": "1.4.4",
+  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.4.4/app-armeabi-v7a-debug.apk",
+  "changelog": "• Transición completa al modelo comunitario 100% gratuito con soporte voluntario por Ko-fi.\n• Nueva Pantalla Cinemática de Detalle de Películas y Series con fondo degradado y sinopsis completa.\n• Sistema de Favoritos persistente '⭐ Mi Lista' con Room DB (añadir/quitar manteniendo pulsado OK en el mando).\n• Gestión completa del Historial de Reproducción en Ajustes.\n• Selector de resplandor del cursor D-pad (Blanco, Dorado VIP, Cyan, Rojo, Violeta) y fondo negro puro OLED.\n• Priorización de pistas de audio en español nativo."
 }
