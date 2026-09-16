@@ -1,6 +1,6 @@
 {
-  "versionCode": 25,
-  "versionName": "1.4.2",
-  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.4.2/app-armeabi-v7a-debug.apk",
-  "changelog": "• Selector de canales: búsqueda integrada con teclado TV, ordenación de seleccionados primero y filtro de canales vacíos.\n• Menú lateral flotante (overlay) con contraste optimizado para visión a 3 metros y auto-colapso.\n• Ajuste de comportamiento de menú en Configuración (Auto, Siempre expandido, Solo iconos).\n• Pila de navegación atrás inteligente sin cierre involuntario.\n• Nueva sección 'Acerca de y Soporte' con códigos QR a Telegram y GitHub.\n• Iconos adaptativos centrados en Google TV y banners 16:9 full-bleed en Fire TV."
+  "versionCode": 26,
+  "versionName": "1.4.3",
+  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.4.3/app-armeabi-v7a-debug.apk",
+  "changelog": "• Corrección crítica de navegación D-pad: se eliminó el salto involuntario del cursor hacia el botón de 'Reproducir' al explorar carruseles de películas, series o contenidos infantiles.\n• Navegación totalmente fluida y estable a 60 FPS con foco retenido donde esté el usuario."
 }
