@@ -1,6 +1,6 @@
 {
-  "versionCode": 33,
-  "versionName": "1.5.5",
-  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.5.5/app-armeabi-v7a-debug.apk",
-  "changelog": "• Foco D-Pad solucionado: Navegación fluida de menú lateral a cuadrícula con flecha derecha en Películas y Series.\n• Cuadrícula con 'Últimas añadidas' (30 títulos) y 'Todas (A - Z)' con filtros por género ordenados alfabéticamente.\n• Paginación progresiva de 30 en 30 para máxima velocidad y cero saturación de memoria RAM.\n• Escaneo exhaustivo de canales: Indexación íntegra de películas clásicas antiguas de Telegram."
+  "versionCode": 34,
+  "versionName": "1.5.6",
+  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.5.6/app-armeabi-v7a-debug.apk",
+  "changelog": "• Foco de alto contraste en Ajustes y Menús: Fondo blanco sólido y texto negro con borde cian para máxima visibilidad desde el sofá.\n• Notificaciones automáticas a Telegram: Alerta en tiempo real a administradores cuando un usuario inicia sesión.\n• Canal Cine de los 80 y 90: Integrado y registrado en la base de datos de canales.\n• Separación estricta Películas vs Series: Eliminados episodios y archivos 'Video' de Películas, y deduplicadas las series (1 tarjeta = 1 serie)."
 }
