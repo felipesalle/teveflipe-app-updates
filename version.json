@@ -1,6 +1,6 @@
 {
-  "versionCode": 32,
-  "versionName": "1.5.4",
-  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.5.4/app-armeabi-v7a-debug.apk",
-  "changelog": "• Cuadrícula vertical de 5 columnas en Películas, Series y Kids con filtros dinámicos por género.\n• Inicio ultra ágil: límite estricto de 20 elementos por carrusel.\n• Corrección crítica: blindaje total contra crasheos al cambiar filtros de Actor o Director en el buscador."
+  "versionCode": 33,
+  "versionName": "1.5.5",
+  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.5.5/app-armeabi-v7a-debug.apk",
+  "changelog": "• Foco D-Pad solucionado: Navegación fluida de menú lateral a cuadrícula con flecha derecha en Películas y Series.\n• Cuadrícula con 'Últimas añadidas' (30 títulos) y 'Todas (A - Z)' con filtros por género ordenados alfabéticamente.\n• Paginación progresiva de 30 en 30 para máxima velocidad y cero saturación de memoria RAM.\n• Escaneo exhaustivo de canales: Indexación íntegra de películas clásicas antiguas de Telegram."
 }
