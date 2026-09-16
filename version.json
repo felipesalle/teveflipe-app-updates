@@ -1,6 +1,6 @@
 {
-  "versionCode": 24,
-  "versionName": "1.4.1",
-  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.4.1/app-armeabi-v7a-debug.apk",
-  "changelog": "• Corrección crítica de cierre forzado al terminar de escanear los canales de Telegram.\n• Eliminación del conflicto de compatibilidad en carruseles horizontales.\n• Estabilidad 100% garantizada con LazyRow nativo y foco seguro.\n• Rediseño cinematográfico completo estilo Apple TV / Xuper TV con 60 FPS y debounce."
+  "versionCode": 25,
+  "versionName": "1.4.2",
+  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.4.2/app-armeabi-v7a-debug.apk",
+  "changelog": "• Selector de canales: búsqueda integrada con teclado TV, ordenación de seleccionados primero y filtro de canales vacíos.\n• Menú lateral flotante (overlay) con contraste optimizado para visión a 3 metros y auto-colapso.\n• Ajuste de comportamiento de menú en Configuración (Auto, Siempre expandido, Solo iconos).\n• Pila de navegación atrás inteligente sin cierre involuntario.\n• Nueva sección 'Acerca de y Soporte' con códigos QR a Telegram y GitHub.\n• Iconos adaptativos centrados en Google TV y banners 16:9 full-bleed en Fire TV."
 }
