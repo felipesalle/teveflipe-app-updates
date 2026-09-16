@@ -1,6 +1,6 @@
 {
-  "versionCode": 29,
-  "versionName": "1.5.1",
-  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.5.1/app-armeabi-v7a-debug.apk",
-  "changelog": "• Hotfix crítico: Corrección del control remoto D-pad en el menú lateral. El buscador ya no se abre al navegar por el menú, solo al pulsar OK.\n• Foco inicial automático en Inicio para navegación fluida y sin bloqueos.\n• Buscador General con soporte de voz (🎤) y filtros avanzados TMDb para Donadores VIP.\n• Canales desacoplados cargados dinámicamente desde Firebase."
+  "versionCode": 30,
+  "versionName": "1.5.2",
+  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.5.2/app-armeabi-v7a-debug.apk",
+  "changelog": "• Paginación total de canales: Carga completa de catálogos extensos (ahora aparecen todas las películas como 'La ventana indiscreta', 'El bazar de las sorpresas', etc.).\n• Búsqueda VIP PRO por Actor y Director integrada con TMDb: Al buscar 'Stewart', el buscador cruza su filmografía oficial y encuentra todas sus obras en tu colección.\n• Buscador inteligente con tolerancia a erratas (Fuzzy matching) y normalización de signos y acentos."
 }
