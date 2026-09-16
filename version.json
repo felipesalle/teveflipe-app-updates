@@ -1,6 +1,6 @@
 {
-  "versionCode": 30,
-  "versionName": "1.5.2",
-  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.5.2/app-armeabi-v7a-debug.apk",
-  "changelog": "• Paginación total de canales: Carga completa de catálogos extensos (ahora aparecen todas las películas como 'La ventana indiscreta', 'El bazar de las sorpresas', etc.).\n• Búsqueda VIP PRO por Actor y Director integrada con TMDb: Al buscar 'Stewart', el buscador cruza su filmografía oficial y encuentra todas sus obras en tu colección.\n• Buscador inteligente con tolerancia a erratas (Fuzzy matching) y normalización de signos y acentos."
+  "versionCode": 31,
+  "versionName": "1.5.3",
+  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.5.3/app-armeabi-v7a-debug.apk",
+  "changelog": "• Búsqueda 100% en memoria RAM: Respuesta instantánea sin lag ni peticiones de red al teclear.\n• Filtro estricto: Eliminado por completo el error que mostraba series aleatorias.\n• Normalizador de tildes: Búsqueda insensible a acentos en títulos y sinopsis.\n• Carga completa de canales sin límite de 100 películas."
 }
