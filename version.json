@@ -1,6 +1,6 @@
 {
-  "versionCode": 28,
-  "versionName": "1.5.0",
-  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.5.0/app-armeabi-v7a-debug.apk",
-  "changelog": "• Buscador General en menú lateral con soporte de voz (🎤) y navegación fluida por D-pad.\n• Filtros avanzados de búsqueda TMDb exclusivos para Donadores VIP.\n• Desacoplamiento total de canales comunitarios cargados dinámicamente desde Firebase.\n• Sistema de límites comunitarios (3 canales simultáneos para usuarios estándar, ilimitados para Donadores VIP).\n• Nuevo panel de administración web con autenticación Firebase Auth y gestor de canales."
+  "versionCode": 29,
+  "versionName": "1.5.1",
+  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.5.1/app-armeabi-v7a-debug.apk",
+  "changelog": "• Hotfix crítico: Corrección del control remoto D-pad en el menú lateral. El buscador ya no se abre al navegar por el menú, solo al pulsar OK.\n• Foco inicial automático en Inicio para navegación fluida y sin bloqueos.\n• Buscador General con soporte de voz (🎤) y filtros avanzados TMDb para Donadores VIP.\n• Canales desacoplados cargados dinámicamente desde Firebase."
 }
