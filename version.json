@@ -1,6 +1,6 @@
 {
-  "versionCode": 31,
-  "versionName": "1.5.3",
-  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.5.3/app-armeabi-v7a-debug.apk",
-  "changelog": "• Búsqueda 100% en memoria RAM: Respuesta instantánea sin lag ni peticiones de red al teclear.\n• Filtro estricto: Eliminado por completo el error que mostraba series aleatorias.\n• Normalizador de tildes: Búsqueda insensible a acentos en títulos y sinopsis.\n• Carga completa de canales sin límite de 100 películas."
+  "versionCode": 32,
+  "versionName": "1.5.4",
+  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.5.4/app-armeabi-v7a-debug.apk",
+  "changelog": "• Cuadrícula vertical de 5 columnas en Películas, Series y Kids con filtros dinámicos por género.\n• Inicio ultra ágil: límite estricto de 20 elementos por carrusel.\n• Corrección crítica: blindaje total contra crasheos al cambiar filtros de Actor o Director en el buscador."
 }
