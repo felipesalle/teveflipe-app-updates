@@ -1,6 +1,6 @@
 {
-  "versionCode": 35,
-  "versionName": "1.5.7",
-  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.5.7/app-armeabi-v7a-debug.apk",
-  "changelog": "• Foco Universal de Alto Contraste: Botones de actualización, chips y opciones con pastilla blanca pura y texto negro legibles desde el sofá.\n• Continuar Viendo: Modal interactivo para continuar en el minuto exacto o reiniciar desde cero.\n• Búsqueda por Voz y Filtros: Búsqueda en memoria con botón de micrófono (🎤) en Películas, Series y Kids.\n• Gestor de Reproductor Externo: Soporte para VLC, Nova y Just Player con persistencia de configuración.\n• Navegación D-Pad en Ajustes: Foco directo a opciones sin atascos desde el menú lateral.\n• TMDb Inteligente: Recuperación de carátulas sin año para catálogo clásico y Kids."
+  "versionCode": 36,
+  "versionName": "1.5.8",
+  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.5.8/app-armeabi-v7a-debug.apk",
+  "changelog": "• Corrección Crítica de Reproducción: Solucionado el problema de pantalla en negro al iniciar películas (validación estricta de fileId y reintentos limpios en NanoHTTPD/ExoPlayer).\n• Foco de Alto Contraste: Selector de canales, chips de filtro y menú de Ajustes completo con blanco puro, borde cian y tipografía en negro de máxima legibilidad.\n• Carga Ultrarrápida de Catálogo: Eliminada la saturación de CPU/red al arrancar; Room Database local y miniaturas instantáneas de Telegram con transición suave a TMDb."
 }
