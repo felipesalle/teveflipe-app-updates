@@ -1,6 +1,6 @@
 {
-  "versionCode": 38,
-  "versionName": "1.6.0",
-  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.6.0/app-armeabi-v7a-debug.apk",
-  "changelog": "• Sincronización Total de Series: Solucionada la sincronización de canales de temas/foros (Series TV, Series Infantiles). Death Parade y todos los temas ya aparecen y se buscan sin fallos.\n• Filtrado Estricto de Canales: Solo se muestra el contenido perteneciente a los canales marcados. Si no marcas películas, no saldrán en Inicio ni en Películas.\n• Botón 'Desmarcar Todos' en el selector de canales.\n• Ajustes con Foco de Alto Contraste: Selector enfocado con tarjeta blanca sólida, borde cian neón y texto negro de máxima visibilidad en Android TV."
+  "versionCode": 39,
+  "versionName": "1.6.1",
+  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.6.1/app-armeabi-v7a-debug.apk",
+  "changelog": "• Carátulas TMDb Recuperadas al 100%: Limpieza avanzada de prefijos numéricos de archivos (007, 01, 02) y números de pista para identificar los títulos en TMDb sin fallos.\n• Miniaturas de Telegram Reactivas: Si TMDb está cargando o no tiene póster, se muestra de inmediato la miniatura nativa de Telegram sin dejar tarjetas grises.\n• Eliminación de Caché Negativa: Ya no se bloquean títulos si una búsqueda falló previamente.\n• Persistencia en Disco: Las películas y series enriquecidas se guardan permanentemente en caché local para arranque instantáneo."
 }
