@@ -1,6 +1,6 @@
 {
-  "versionCode": 36,
-  "versionName": "1.5.8",
-  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.5.8/app-armeabi-v7a-debug.apk",
-  "changelog": "• Corrección Crítica de Reproducción: Solucionado el problema de pantalla en negro al iniciar películas (validación estricta de fileId y reintentos limpios en NanoHTTPD/ExoPlayer).\n• Foco de Alto Contraste: Selector de canales, chips de filtro y menú de Ajustes completo con blanco puro, borde cian y tipografía en negro de máxima legibilidad.\n• Carga Ultrarrápida de Catálogo: Eliminada la saturación de CPU/red al arrancar; Room Database local y miniaturas instantáneas de Telegram con transición suave a TMDb."
+  "versionCode": 37,
+  "versionName": "1.5.9",
+  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.5.9/app-armeabi-v7a-debug.apk",
+  "changelog": "• Paginación Total de Series: Solucionado el límite de 100 series por canal de foros. Ahora se cargan todos los temas (más de 470 en Series TV y más de 760 en Series Infantiles).\n• Búsqueda Completa: Se desbloquean series antiguas como Death Parade para encontrarlas al instante en el buscador.\n• Rendimiento Optimizado: Paginación reactiva en segundo plano y guardado automático en caché local."
 }
