@@ -1,6 +1,6 @@
 {
-  "versionCode": 37,
-  "versionName": "1.5.9",
-  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.5.9/app-armeabi-v7a-debug.apk",
-  "changelog": "• Paginación Total de Series: Solucionado el límite de 100 series por canal de foros. Ahora se cargan todos los temas (más de 470 en Series TV y más de 760 en Series Infantiles).\n• Búsqueda Completa: Se desbloquean series antiguas como Death Parade para encontrarlas al instante en el buscador.\n• Rendimiento Optimizado: Paginación reactiva en segundo plano y guardado automático en caché local."
+  "versionCode": 38,
+  "versionName": "1.6.0",
+  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.6.0/app-armeabi-v7a-debug.apk",
+  "changelog": "• Sincronización Total de Series: Solucionada la sincronización de canales de temas/foros (Series TV, Series Infantiles). Death Parade y todos los temas ya aparecen y se buscan sin fallos.\n• Filtrado Estricto de Canales: Solo se muestra el contenido perteneciente a los canales marcados. Si no marcas películas, no saldrán en Inicio ni en Películas.\n• Botón 'Desmarcar Todos' en el selector de canales.\n• Ajustes con Foco de Alto Contraste: Selector enfocado con tarjeta blanca sólida, borde cian neón y texto negro de máxima visibilidad en Android TV."
 }
