@@ -1,6 +1,6 @@
 {
-  "versionCode": 43,
-  "versionName": "1.7.3",
+  "versionCode": 44,
+  "versionName": "1.7.4",
   "apkUrl": "https://felipesalle.github.io/teveflipe-app-updates/app-armeabi-v7a-debug.apk",
-  "changelog": "• Soporte OTA Directo: Descarga 100% compatible sin redirecciones para actualizar desde cualquier versión previa.\n• Auto-Unión Blindada: Unión automática a Películas Anime, Series Anime e Infantiles.\n• Detección Dinámica: Detección instantánea de canales de Telegram y sincronización en tiempo real."
+  "changelog": "• Recarga Reactiva de Catálogo: Solucionado el fallo al deseleccionar y volver a seleccionar canales en el selector.\n• Auto-Unión Instantánea Directa: Unión garantizada a Películas Anime, Series Anime y Películas Infantiles al seleccionarlos o salir del selector.\n• Refresco Forzado de Canales: Los canales seleccionados se reindexan inmediatamente sin reiniciar la app."
 }
