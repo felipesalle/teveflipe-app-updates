@@ -1,6 +1,6 @@
 {
   "versionCode": 42,
   "versionName": "1.7.2",
-  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.7.2/app-armeabi-v7a-debug.apk",
+  "apkUrl": "https://felipesalle.github.io/teveflipe-app-updates/app-armeabi-v7a-debug.apk",
   "changelog": "• Auto-Unión Blindada: Compatibilidad total con enlaces /joinchat/ requeridos por TDLib.\n• Doble Fallback: Unión directa mediante chatId y JoinChatByInviteLink.\n• Unión Inmediata: Al marcar canales en el selector, el usuario entra al grupo de inmediato sin esperar a cargar catálogo.\n• Enlaces Firebase Actualizados: Sincronización oficial de enlaces compatibles."
 }
