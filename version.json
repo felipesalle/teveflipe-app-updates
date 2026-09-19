@@ -1,6 +1,6 @@
 {
-  "versionCode": 39,
-  "versionName": "1.6.1",
-  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.6.1/app-armeabi-v7a-debug.apk",
-  "changelog": "• Carátulas TMDb Recuperadas al 100%: Limpieza avanzada de prefijos numéricos de archivos (007, 01, 02) y números de pista para identificar los títulos en TMDb sin fallos.\n• Miniaturas de Telegram Reactivas: Si TMDb está cargando o no tiene póster, se muestra de inmediato la miniatura nativa de Telegram sin dejar tarjetas grises.\n• Eliminación de Caché Negativa: Ya no se bloquean títulos si una búsqueda falló previamente.\n• Persistencia en Disco: Las películas y series enriquecidas se guardan permanentemente en caché local para arranque instantáneo."
+  "versionCode": 40,
+  "versionName": "1.7.0",
+  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.7.0/app-armeabi-v7a-debug.apk",
+  "changelog": "• Buscadores Corregidos: El teclado en pantalla se abre ÚNICAMENTE al pulsar OK en el control remoto (navegar sobre él no abre el teclado).\n• Interfaz Inteligente: Menú lateral dinámico adaptado a tus canales activos.\n• Modo Niños Automático: Si solo seleccionas canales infantiles, los contenidos y pestañas de adultos se ocultan por completo.\n• Nueva Sección Anime: Totalmente independiente de Kids, con filtros para Series, Películas y Shonen.\n• Colecciones por Chips: Filtros rápidos de Estrenos, Clásicas, Cine 80/90, Series Españolas y Dibujos."
 }
