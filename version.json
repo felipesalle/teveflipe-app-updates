@@ -1,6 +1,6 @@
 {
-  "versionCode": 47,
-  "versionName": "1.7.7",
+  "versionCode": 48,
+  "versionName": "1.7.8",
   "apkUrl": "https://felipesalle.github.io/teveflipe-app-updates/app-armeabi-v7a-debug.apk",
-  "changelog": "• Pantalla de Pre-búfer Restaurada: Indicador visual en tiempo real de descarga del búfer al reproducir películas desde la ficha de detalles.\n• Mayor Estabilidad y Fluidez: Evita la sensación de congelamiento o pausa previa a la reproducción.\n• Mejoras generales en el reproductor."
+  "changelog": "• Selector de Canales en Lista Vertical: Navegación mucho más rápida y ordenada por canales en formato lista para Android TV.\n• Filtrado Inteligente de Canales y Grupos: Por defecto solo se muestran canales y supergrupos/foros, descartando completamente chats individuales y contactos.\n• Nuevo Chip de Filtro: Pestaña 'Solo Seleccionados' para consultar y gestionar tus canales activos con un solo clic."
 }
