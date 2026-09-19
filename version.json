@@ -1,6 +1,6 @@
 {
-  "versionCode": 40,
-  "versionName": "1.7.0",
-  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.7.0/app-armeabi-v7a-debug.apk",
-  "changelog": "• Buscadores Corregidos: El teclado en pantalla se abre ÚNICAMENTE al pulsar OK en el control remoto (navegar sobre él no abre el teclado).\n• Interfaz Inteligente: Menú lateral dinámico adaptado a tus canales activos.\n• Modo Niños Automático: Si solo seleccionas canales infantiles, los contenidos y pestañas de adultos se ocultan por completo.\n• Nueva Sección Anime: Totalmente independiente de Kids, con filtros para Series, Películas y Shonen.\n• Colecciones por Chips: Filtros rápidos de Estrenos, Clásicas, Cine 80/90, Series Españolas y Dibujos."
+  "versionCode": 41,
+  "versionName": "1.7.1",
+  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.7.1/app-armeabi-v7a-debug.apk",
+  "changelog": "• Selector de Canales: Visibilidad completa de Películas Infantiles y Películas Anime sin descartes por conteo de vídeos.\n• Series Anime: Corrección en la resolución de canales seleccionados y unión automática a temas/foros para cargar las 27 series sincronizadas.\n• TDLib Sync: Verificación y apertura previa de canales y foros para evitar fallos de sincronización de temas y vídeos.\n• Admin Web: Botón para sincronizar canales Anime e Infantiles directamente a Firebase Realtime Database."
 }
