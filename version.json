@@ -1,6 +1,6 @@
 {
-  "versionCode": 51,
-  "versionName": "1.8.1",
+  "versionCode": 52,
+  "versionName": "1.8.2",
   "apkUrl": "https://felipesalle.github.io/teveflipe-app-updates/app-armeabi-v7a-debug.apk",
-  "changelog": "• Fase 3 - Transición Cinemática de Fondo (Backdrop Crossfade): Disolución cruzada suave de 400ms en el fondo panorámico al navegar por el catálogo con el mando D-pad.\n• Degradados Inmersivos Estables: Doble viñeta horizontal y vertical fijada sobre la capa de animación para eliminar cualquier corte o parpadeo.\n• Fallback Inteligente: En caso de que un título no posea imagen de fondo en TMDb, utiliza su carátula para mantener el ambiente cinematográfico."
+  "changelog": "• Fase 4 - Barra de Progreso en Catálogos: Indicador visual dinámico en la parte inferior de los pósters para películas y series en progreso.\n• Insignia de Contenido Completado: Elegante etiqueta '✓ VISTO' en la esquina superior de los contenidos ya reproducidos.\n• Estado Dinámico al Enfocar: Visualización directa del porcentaje visto ('▶ X% visto' o '✓ Completado') bajo el título.\n• Ficha de Detalles Inteligente: Póster con progreso integrado y botón de reproducción adaptativo ('Reanudar (X%)' o 'Volver a Ver')."
 }
