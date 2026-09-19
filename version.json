@@ -1,6 +1,6 @@
 {
-  "versionCode": 54,
-  "versionName": "1.8.4",
+  "versionCode": 55,
+  "versionName": "1.8.5",
   "apkUrl": "https://felipesalle.github.io/teveflipe-app-updates/app-armeabi-v7a-debug.apk",
-  "changelog": "• Fase 6 - Arranque Instantáneo (<0.5s): Precarga inmediata del catálogo desde la caché en disco local para entrar a la app sin pantallas de carga y con recarga silenciosa en segundo plano.\n• Iconos Vectoriales Estilizados y Tipografía Moderna: Barra lateral y cabeceras de categorías rediseñadas con iconos Material de alto contraste y aspecto cinematográfico.\n• Selector de Canales con Ordenación A - Z Real: Limpieza de emojis en títulos para eliminar iconos duplicados y ordenar alfabéticamente de forma perfecta.\n• Aviso de Nuevos Canales Oficiales: Detección automática al iniciar la app de cualquier nuevo canal añadido en el panel de administración con diálogo informativo de un solo toque."
+  "changelog": "• Alto Contraste Cinemático en Temporadas: Rediseño visual completo de los botones de temporada con fondo cian neón eléctrico y borde blanco brillante al enfocar, facilitando distinguir instantáneamente el movimiento del cursor.\n• Animación de Escala y Feedback Sonoro: Zoom dinámico suave al pasar de una temporada a otra y sonido nativo de TV al navegar con las flechas del mando a distancia.\n• Indicador de Temporada Activa: Distintivo circular iluminado y mayor tamaño de texto para saber con total claridad qué temporada está en pantalla mientras exploras los episodios."
 }
