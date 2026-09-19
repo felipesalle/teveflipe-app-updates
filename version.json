@@ -1,6 +1,6 @@
 {
-  "versionCode": 48,
-  "versionName": "1.7.8",
+  "versionCode": 49,
+  "versionName": "1.7.9",
   "apkUrl": "https://felipesalle.github.io/teveflipe-app-updates/app-armeabi-v7a-debug.apk",
-  "changelog": "• Selector de Canales en Lista Vertical: Navegación mucho más rápida y ordenada por canales en formato lista para Android TV.\n• Filtrado Inteligente de Canales y Grupos: Por defecto solo se muestran canales y supergrupos/foros, descartando completamente chats individuales y contactos.\n• Nuevo Chip de Filtro: Pestaña 'Solo Seleccionados' para consultar y gestionar tus canales activos con un solo clic."
+  "changelog": "• Corrección Crítica de Auto-unión: Resuelto el fallo que impedía a usuarios nuevos unirse a Películas Anime, Series Anime e Infantiles.\n• Unión Garantizada al Salir: Tanto el botón 'Ver Catálogo' como la tecla 'Atrás' del mando ejecutan la suscripción obligatoria y la recarga inmediata de contenidos.\n• Visualización de Progreso: Pantalla de sincronización en tiempo real informando del estado de unión a cada canal."
 }
