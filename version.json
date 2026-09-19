@@ -1,6 +1,6 @@
 {
-  "versionCode": 45,
-  "versionName": "1.7.5",
+  "versionCode": 46,
+  "versionName": "1.7.6",
   "apkUrl": "https://felipesalle.github.io/teveflipe-app-updates/app-armeabi-v7a-debug.apk",
-  "changelog": "• Carga Instantánea de Canales Nuevos: Sustituida búsqueda por GetChatHistory para leer Películas Anime e Infantiles al instante.\n• Corrección de Canales Infantiles: Películas Infantiles ya no se confunde con foro de series.\n• Actualizaciones Ultra-Rápidas: Sincronización directa con Firebase sin demora de caché CDN."
+  "changelog": "• Paginación Completa de Canales: Ahora lee todos los vídeos (+454 vídeos) de Películas Infantiles sin detenerse en el lote inicial de 50.\n• Corrección de Enlace Películas Anime: Restaurado el enlace oficial privado correcto (https://t.me/+MfhT8wVNihg2OTBj).\n• Rendimiento Optimizado: Carga progresiva y fluida de catálogos extensos."
 }
