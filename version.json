@@ -1,6 +1,6 @@
 {
-  "versionCode": 49,
-  "versionName": "1.7.9",
+  "versionCode": 50,
+  "versionName": "1.8.0",
   "apkUrl": "https://felipesalle.github.io/teveflipe-app-updates/app-armeabi-v7a-debug.apk",
-  "changelog": "• Corrección Crítica de Auto-unión: Resuelto el fallo que impedía a usuarios nuevos unirse a Películas Anime, Series Anime e Infantiles.\n• Unión Garantizada al Salir: Tanto el botón 'Ver Catálogo' como la tecla 'Atrás' del mando ejecutan la suscripción obligatoria y la recarga inmediata de contenidos.\n• Visualización de Progreso: Pantalla de sincronización en tiempo real informando del estado de unión a cada canal."
+  "changelog": "• Fase 2 - Optimización Extrema de Rendimiento: Ahorro del 50% de memoria gráfica en carátulas al eliminar renderizado doble de imágenes.\n• Transición Fluida Instantánea: La miniatura local de Telegram actúa como placeholder nativo mientras se descarga la carátula HD de TMDb con crossfade suave.\n• Scroll a 60 FPS en Catálogos: Reciclaje optimizado de nodos de interfaz con contentType en todas las cuadrículas de Películas, Series y Anime."
 }
