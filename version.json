@@ -1,6 +1,6 @@
 {
-  "versionCode": 53,
-  "versionName": "1.8.3",
+  "versionCode": 54,
+  "versionName": "1.8.4",
   "apkUrl": "https://felipesalle.github.io/teveflipe-app-updates/app-armeabi-v7a-debug.apk",
-  "changelog": "• Fase 5 - Feedback de Avance/Retroceso Flotante: Nueva burbuja animada en pantalla con saltos acumulativos (+10s, +30s, +1m...) y tiempo de destino exacto en tiempo real.\n• Barra de Progreso HUD en Tiempo Real: La línea de tiempo refleja inmediatamente el destino del salto mientras mantienes pulsado el mando.\n• Selector Moderno de Audio y Subtítulos: Botones chip de alto contraste, navegación suave y cierre instantáneo con el botón Atrás del mando sin salir de la reproducción."
+  "changelog": "• Fase 6 - Arranque Instantáneo (<0.5s): Precarga inmediata del catálogo desde la caché en disco local para entrar a la app sin pantallas de carga y con recarga silenciosa en segundo plano.\n• Iconos Vectoriales Estilizados y Tipografía Moderna: Barra lateral y cabeceras de categorías rediseñadas con iconos Material de alto contraste y aspecto cinematográfico.\n• Selector de Canales con Ordenación A - Z Real: Limpieza de emojis en títulos para eliminar iconos duplicados y ordenar alfabéticamente de forma perfecta.\n• Aviso de Nuevos Canales Oficiales: Detección automática al iniciar la app de cualquier nuevo canal añadido en el panel de administración con diálogo informativo de un solo toque."
 }
