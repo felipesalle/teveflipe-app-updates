@@ -1,6 +1,6 @@
 {
-  "versionCode": 50,
-  "versionName": "1.8.0",
+  "versionCode": 51,
+  "versionName": "1.8.1",
   "apkUrl": "https://felipesalle.github.io/teveflipe-app-updates/app-armeabi-v7a-debug.apk",
-  "changelog": "• Fase 2 - Optimización Extrema de Rendimiento: Ahorro del 50% de memoria gráfica en carátulas al eliminar renderizado doble de imágenes.\n• Transición Fluida Instantánea: La miniatura local de Telegram actúa como placeholder nativo mientras se descarga la carátula HD de TMDb con crossfade suave.\n• Scroll a 60 FPS en Catálogos: Reciclaje optimizado de nodos de interfaz con contentType en todas las cuadrículas de Películas, Series y Anime."
+  "changelog": "• Fase 3 - Transición Cinemática de Fondo (Backdrop Crossfade): Disolución cruzada suave de 400ms en el fondo panorámico al navegar por el catálogo con el mando D-pad.\n• Degradados Inmersivos Estables: Doble viñeta horizontal y vertical fijada sobre la capa de animación para eliminar cualquier corte o parpadeo.\n• Fallback Inteligente: En caso de que un título no posea imagen de fondo en TMDb, utiliza su carátula para mantener el ambiente cinematográfico."
 }
