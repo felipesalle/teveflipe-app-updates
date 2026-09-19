@@ -1,6 +1,6 @@
 {
-  "versionCode": 52,
-  "versionName": "1.8.2",
+  "versionCode": 53,
+  "versionName": "1.8.3",
   "apkUrl": "https://felipesalle.github.io/teveflipe-app-updates/app-armeabi-v7a-debug.apk",
-  "changelog": "• Fase 4 - Barra de Progreso en Catálogos: Indicador visual dinámico en la parte inferior de los pósters para películas y series en progreso.\n• Insignia de Contenido Completado: Elegante etiqueta '✓ VISTO' en la esquina superior de los contenidos ya reproducidos.\n• Estado Dinámico al Enfocar: Visualización directa del porcentaje visto ('▶ X% visto' o '✓ Completado') bajo el título.\n• Ficha de Detalles Inteligente: Póster con progreso integrado y botón de reproducción adaptativo ('Reanudar (X%)' o 'Volver a Ver')."
+  "changelog": "• Fase 5 - Feedback de Avance/Retroceso Flotante: Nueva burbuja animada en pantalla con saltos acumulativos (+10s, +30s, +1m...) y tiempo de destino exacto en tiempo real.\n• Barra de Progreso HUD en Tiempo Real: La línea de tiempo refleja inmediatamente el destino del salto mientras mantienes pulsado el mando.\n• Selector Moderno de Audio y Subtítulos: Botones chip de alto contraste, navegación suave y cierre instantáneo con el botón Atrás del mando sin salir de la reproducción."
 }
