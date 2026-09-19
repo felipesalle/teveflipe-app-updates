@@ -1,6 +1,6 @@
 {
-  "versionCode": 41,
-  "versionName": "1.7.1",
-  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.7.1/app-armeabi-v7a-debug.apk",
-  "changelog": "• Selector de Canales: Visibilidad completa de Películas Infantiles y Películas Anime sin descartes por conteo de vídeos.\n• Series Anime: Corrección en la resolución de canales seleccionados y unión automática a temas/foros para cargar las 27 series sincronizadas.\n• TDLib Sync: Verificación y apertura previa de canales y foros para evitar fallos de sincronización de temas y vídeos.\n• Admin Web: Botón para sincronizar canales Anime e Infantiles directamente a Firebase Realtime Database."
+  "versionCode": 42,
+  "versionName": "1.7.2",
+  "apkUrl": "https://github.com/felipesalle/teveflipe-app-updates/releases/download/v1.7.2/app-armeabi-v7a-debug.apk",
+  "changelog": "• Auto-Unión Blindada: Compatibilidad total con enlaces /joinchat/ requeridos por TDLib.\n• Doble Fallback: Unión directa mediante chatId y JoinChatByInviteLink.\n• Unión Inmediata: Al marcar canales en el selector, el usuario entra al grupo de inmediato sin esperar a cargar catálogo.\n• Enlaces Firebase Actualizados: Sincronización oficial de enlaces compatibles."
 }
