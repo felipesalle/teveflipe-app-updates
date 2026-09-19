@@ -1,6 +1,6 @@
 {
-  "versionCode": 46,
-  "versionName": "1.7.6",
+  "versionCode": 47,
+  "versionName": "1.7.7",
   "apkUrl": "https://felipesalle.github.io/teveflipe-app-updates/app-armeabi-v7a-debug.apk",
-  "changelog": "• Paginación Completa de Canales: Ahora lee todos los vídeos (+454 vídeos) de Películas Infantiles sin detenerse en el lote inicial de 50.\n• Corrección de Enlace Películas Anime: Restaurado el enlace oficial privado correcto (https://t.me/+MfhT8wVNihg2OTBj).\n• Rendimiento Optimizado: Carga progresiva y fluida de catálogos extensos."
+  "changelog": "• Pantalla de Pre-búfer Restaurada: Indicador visual en tiempo real de descarga del búfer al reproducir películas desde la ficha de detalles.\n• Mayor Estabilidad y Fluidez: Evita la sensación de congelamiento o pausa previa a la reproducción.\n• Mejoras generales en el reproductor."
 }
