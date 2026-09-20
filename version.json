@@ -1,6 +1,6 @@
 {
   "apkUrl": "https://felipesalle.github.io/teveflipe-app-updates/app-armeabi-v7a-debug.apk",
-  "changelog": "Versión de producción estable 1.8.6.",
-  "versionCode": 56,
-  "versionName": "1.8.6"
+  "changelog": "• Reproductor optimizado: Detención inmediata de audio y vídeo al pulsar Atrás.\n• Buscador reactivo: Detección en tiempo real del catálogo mientras se descargan canales de Telegram.\n• Gestión de almacenamiento: Liberación efectiva de espacio temporal con 'Borrar caché' sin perder sesión.",
+  "versionCode": 61,
+  "versionName": "1.8.11"
 }
