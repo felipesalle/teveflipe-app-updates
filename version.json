@@ -1,11 +1,6 @@
 {
-  "versionCode": 61,
-  "versionName": "1.8.11",
-  "apkUrl": "https://felipesalle.github.io/teveflipe-app-updates/app-universal-debug.apk",
-  "apkUrls": {
-    "universal": "https://felipesalle.github.io/teveflipe-app-updates/app-universal-debug.apk",
-    "arm64-v8a": "https://felipesalle.github.io/teveflipe-app-updates/app-arm64-v8a-debug.apk",
-    "armeabi-v7a": "https://felipesalle.github.io/teveflipe-app-updates/app-armeabi-v7a-debug.apk"
-  },
-  "changelog": "🚀 APK Universal compatible con todas las arquitecturas de TV (arm64 y arm32).\n✅ Verificación rigurosa de integridad del paquete antes de instalar.\n✅ Resuelto error de paquete no válido en televisores Sony Bravia y Google TV.\n✅ Búsqueda reactiva mientras el catálogo se descarga.\n✅ 2FA y salida instantánea del reproductor optimizadas."
+  "apkUrl": "https://felipesalle.github.io/teveflipe-app-updates/app-armeabi-v7a-debug.apk",
+  "changelog": "Versión de producción estable 1.8.6.",
+  "versionCode": 56,
+  "versionName": "1.8.6"
 }
