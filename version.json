@@ -1,6 +1,6 @@
 {
-  "versionCode": 59,
-  "versionName": "1.8.9",
+  "versionCode": 60,
+  "versionName": "1.8.10",
   "apkUrl": "https://felipesalle.github.io/teveflipe-app-updates/app-armeabi-v7a-debug.apk",
-  "changelog": "✅ Búsqueda reactiva mientras el catálogo se descarga.\n✅ OTA corregida: sin bucle de actualización infinita.\n✅ Contraseña 2FA: sin errores 400 por pulsación doble.\n✅ Reproductor: salida instantánea sin congelamiento.\n✅ Botón quitar de Continuar viendo.\n✅ Almacenamiento: caché de medios gestionada por Android."
+  "changelog": "✅ Compatible con Android TV desde Android 6.0.\n✅ Diálogo OTA: botón Cerrar tras descarga completada.\n✅ OTA sin bucle infinito de actualización.\n✅ Búsqueda reactiva mientras el catálogo se descarga.\n✅ Contraseña 2FA sin errores por pulsación doble.\n✅ Salida del reproductor sin congelamiento."
 }
