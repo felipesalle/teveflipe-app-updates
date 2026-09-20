@@ -1,6 +1,6 @@
 {
   "apkUrl": "https://felipesalle.github.io/teveflipe-app-updates/app-armeabi-v7a-debug.apk",
-  "changelog": "• Corrección de almacenamiento: Los vídeos temporales ahora van a la partición de caché de Android, permitiendo liberar espacio con 'Borrar caché' sin cerrar sesión.\n• Buscador optimizado: Detección continua del catálogo en tiempo real sin esperas ni bloqueos.",
-  "versionCode": 57,
-  "versionName": "1.8.7"
+  "changelog": "• Corrección crítica: El audio y vídeo ahora se detienen de inmediato al salir o pulsar Atrás.\n• Memoria optimizada: Liberación instantánea de recursos al volver al menú.",
+  "versionCode": 58,
+  "versionName": "1.8.8"
 }
