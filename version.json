@@ -1,1 +1,6 @@
-{"apkUrl":"https://felipesalle.github.io/teveflipe-app-updates/app-armeabi-v7a-debug.apk","changelog":"• Instant-On: La app arranca en menos de 300ms mostrando el catálogo en caché sin esperar a Telegram.\n• D-pad libre: La sincronización pesada se lanza 3 segundos después del arranque, dejando el mando completamente funcional desde el primer instante.\n• Sin micro-tirones: El catálogo se actualiza en bloques agrupados, no película por película.\n• CPU liberada: Todo el parseo de títulos y consultas a Telegram corre en hilos de fondo (IO/Default), nunca en el hilo principal.","versionCode":56,"versionName":"1.8.6"}
+{
+  "apkUrl": "https://felipesalle.github.io/teveflipe-app-updates/app-armeabi-v7a-debug.apk",
+  "changelog": "• Corrección de almacenamiento: Los vídeos temporales ahora van a la partición de caché de Android, permitiendo liberar espacio con 'Borrar caché' sin cerrar sesión.\n• Buscador optimizado: Detección continua del catálogo en tiempo real sin esperas ni bloqueos.",
+  "versionCode": 57,
+  "versionName": "1.8.7"
+}
