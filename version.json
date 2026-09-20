@@ -1,6 +1,6 @@
 {
+  "versionCode": 59,
+  "versionName": "1.8.9",
   "apkUrl": "https://felipesalle.github.io/teveflipe-app-updates/app-armeabi-v7a-debug.apk",
-  "changelog": "• Solución definitiva: audio en segundo plano eliminado.\n• Mejoras de rendimiento en salida.",
-  "versionCode": 58,
-  "versionName": "1.8.8"
+  "changelog": "✅ Búsqueda reactiva mientras el catálogo se descarga.\n✅ OTA corregida: sin bucle de actualización infinita.\n✅ Contraseña 2FA: sin errores 400 por pulsación doble.\n✅ Reproductor: salida instantánea sin congelamiento.\n✅ Botón quitar de Continuar viendo.\n✅ Almacenamiento: caché de medios gestionada por Android."
 }
