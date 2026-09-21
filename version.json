@@ -1,6 +1,6 @@
 {
   "apkUrl": "https://felipesalle.github.io/teveflipe-app-updates/app-armeabi-v7a-debug.apk",
-  "changelog": "• Reproductor optimizado: Detención inmediata de audio y vídeo al pulsar Atrás.\n• Buscador reactivo: Detección en tiempo real del catálogo mientras se descargan canales de Telegram.\n• Gestión de almacenamiento: Liberación efectiva de espacio temporal con 'Borrar caché' sin perder sesión.",
-  "versionCode": 61,
-  "versionName": "1.8.11"
+  "changelog": "• Persistencia de canales: Ahora tus canales seleccionados se guardan permanentemente sin reiniciarse al abrir la app.\n• Rediseño visual cinematográfico: Tarjetas 16:9 apaisadas para Series y formato vertical para Películas.\n• Menú centrado y Spotlight: Panel superior con sinopsis en tiempo real y desplazamiento suave de filas.\n• Alto contraste: Cursor D-Pad optimizado en filtros y categorías.\n• Menú contextual: Mantén pulsado OK en cualquier contenido para reproducir rápido o abrir en VLC.",
+  "versionCode": 62,
+  "versionName": "1.8.12"
 }
