@@ -1,6 +1,6 @@
 {
   "apkUrl": "https://felipesalle.github.io/teveflipe-app-updates/app-armeabi-v7a-debug.apk",
-  "changelog": "• Persistencia de canales: Ahora tus canales seleccionados se guardan permanentemente sin reiniciarse al abrir la app.\n• Rediseño visual cinematográfico: Tarjetas 16:9 apaisadas para Series y formato vertical para Películas.\n• Menú centrado y Spotlight: Panel superior con sinopsis en tiempo real y desplazamiento suave de filas.\n• Alto contraste: Cursor D-Pad optimizado en filtros y categorías.\n• Menú contextual: Mantén pulsado OK en cualquier contenido para reproducir rápido o abrir en VLC.",
-  "versionCode": 62,
-  "versionName": "1.8.12"
+  "changelog": "• Motor de series: Salto automático al siguiente capítulo y opción para eliminar de Continuar Viendo.\n• Acelerador TMDb: Carga instantánea de carátulas en catálogo y buscador.\n• Estabilidad y memoria: Auto-limpieza de caché al salir y optimización para proyectores y TV Sticks.\n• Controles mejorados: Auto-ocultado a los 3.5s e intro cinemática.",
+  "versionCode": 64,
+  "versionName": "1.8.14"
 }
