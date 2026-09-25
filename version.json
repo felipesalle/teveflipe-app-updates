@@ -1,6 +1,6 @@
 {
   "apkUrl": "https://felipesalle.github.io/teveflipe-app-updates/app-armeabi-v7a-debug.apk",
-  "changelog": "• Motor de series: Salto automático al siguiente capítulo y opción para eliminar de Continuar Viendo.\n• Acelerador TMDb: Carga instantánea de carátulas en catálogo y buscador.\n• Estabilidad y memoria: Auto-limpieza de caché al salir y optimización para proyectores y TV Sticks.\n• Controles mejorados: Auto-ocultado a los 3.5s e intro cinemática.",
-  "versionCode": 64,
-  "versionName": "1.8.14"
+  "changelog": "• Arranque Instantáneo: Carga a 0ms desde Room SQLite local sin pantallas de espera.\n• Limpiador Avanzado TMDb: Sanitización de etiquetas técnicas y año para 99% de acierto en carátulas.\n• Fusión Virtual de Series: Agrupación inteligente de series multitema en una sola ficha con episodios ordenados.\n• Mantenimiento en Ajustes: Nuevo botón para refrescar carátulas y metadatos sin tocar tus vídeos ni sesión.",
+  "versionCode": 65,
+  "versionName": "1.9.0"
 }
