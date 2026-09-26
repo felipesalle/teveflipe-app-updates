@@ -1,6 +1,6 @@
 {
   "apkUrl": "https://felipesalle.github.io/teveflipe-app-updates/app-armeabi-v7a-debug.apk",
-  "changelog": "• Arranque Instantáneo: Carga a 0ms desde Room SQLite local sin pantallas de espera.\n• Limpiador Avanzado TMDb: Sanitización de etiquetas técnicas y año para 99% de acierto en carátulas.\n• Fusión Virtual de Series: Agrupación inteligente de series multitema en una sola ficha con episodios ordenados.\n• Mantenimiento en Ajustes: Nuevo botón para refrescar carátulas y metadatos sin tocar tus vídeos ni sesión.",
-  "versionCode": 65,
-  "versionName": "1.9.0"
+  "changelog": "• Motor de Carátulas por Año Delimitador: Extracción precisa descartando firmas, directores y prefijos numéricos para 99% de acierto.\n• Búsqueda en Cascada: 3 niveles de reintento inteligente (con año, sin año y título secundario en inglés).\n• Póster Cinemático por Defecto: Claqueta minimalista estilizada para películas sin carátula en TMDb.\n• Navegación 0ms y Zoom 1.07x: Escalado acelerado por GPU y resplandor al enfocar en el D-Pad.",
+  "versionCode": 66,
+  "versionName": "1.9.1"
 }
