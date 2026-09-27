@@ -1,6 +1,7 @@
 {
   "apkUrl": "https://felipesalle.github.io/teveflipe-app-updates/app-armeabi-v7a-debug.apk",
-  "changelog": "• Motor de Carátulas por Año Delimitador: Extracción precisa descartando firmas, directores y prefijos numéricos para 99% de acierto.\n• Búsqueda en Cascada: 3 niveles de reintento inteligente (con año, sin año y título secundario en inglés).\n• Póster Cinemático por Defecto: Claqueta minimalista estilizada para películas sin carátula en TMDb.\n• Navegación 0ms y Zoom 1.07x: Escalado acelerado por GPU y resplandor al enfocar en el D-Pad.",
-  "versionCode": 66,
-  "versionName": "1.9.1"
+  "changelog": "v1.9.2: Menú lateral protegido con Row, selector de canales con filtros Oficiales/Personales y ordenación A-Z, scroll infinito sin límite de 35.",
+  "releaseNotes": "v1.9.2: Menú lateral protegido con Row, selector de canales con filtros Oficiales/Personales y ordenación A-Z, scroll infinito sin límite de 35.",
+  "versionCode": 67,
+  "versionName": "1.9.2"
 }
