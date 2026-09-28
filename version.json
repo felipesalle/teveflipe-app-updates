@@ -1,7 +1,7 @@
 {
-  "versionCode": 68,
-  "versionName": "1.9.3",
+  "versionCode": 69,
+  "versionName": "1.9.4",
   "apkUrl": "https://felipesalle.github.io/teveflipe-app-updates/app-armeabi-v7a-debug.apk",
-  "changelog": "v1.9.3 (Hotfix Crítico): Eliminado corte de streaming a 1-2 min en películas pesadas (flujo continuo TDLib), resolución total del foco fantasma en series y optimización de memoria RAM.",
-  "releaseNotes": "v1.9.3 (Hotfix Crítico): Eliminado corte de streaming a 1-2 min en películas pesadas (flujo continuo TDLib), resolución total del foco fantasma en series y optimización de memoria RAM."
+  "changelog": "v1.9.4: Corrección de foco D-Pad en series, mejoras de usabilidad solicitadas por la comunidad (sonido inicial configurable, selector ordenable A-Z, accesibilidad en ajustes y billboard reforzado).",
+  "releaseNotes": "v1.9.4: Corrección de foco D-Pad en series, mejoras de usabilidad solicitadas por la comunidad (sonido inicial configurable, selector ordenable A-Z, accesibilidad en ajustes y billboard reforzado)."
 }
