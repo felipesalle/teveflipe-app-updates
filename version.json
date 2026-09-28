@@ -1,7 +1,7 @@
 {
+  "versionCode": 68,
+  "versionName": "1.9.3",
   "apkUrl": "https://felipesalle.github.io/teveflipe-app-updates/app-armeabi-v7a-debug.apk",
-  "changelog": "v1.9.2: Menú lateral protegido con Row, selector de canales con filtros Oficiales/Personales y ordenación A-Z, scroll infinito sin límite de 35.",
-  "releaseNotes": "v1.9.2: Menú lateral protegido con Row, selector de canales con filtros Oficiales/Personales y ordenación A-Z, scroll infinito sin límite de 35.",
-  "versionCode": 67,
-  "versionName": "1.9.2"
+  "changelog": "v1.9.3 (Hotfix Crítico): Eliminado corte de streaming a 1-2 min en películas pesadas (flujo continuo TDLib), resolución total del foco fantasma en series y optimización de memoria RAM.",
+  "releaseNotes": "v1.9.3 (Hotfix Crítico): Eliminado corte de streaming a 1-2 min en películas pesadas (flujo continuo TDLib), resolución total del foco fantasma en series y optimización de memoria RAM."
 }
