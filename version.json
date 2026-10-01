@@ -1,7 +1,7 @@
 {
-  "versionCode": 69,
-  "versionName": "1.9.4",
+  "versionCode": 70,
+  "versionName": "1.9.5",
   "apkUrl": "https://felipesalle.github.io/teveflipe-app-updates/app-armeabi-v7a-debug.apk",
-  "changelog": "v1.9.4: Corrección de foco D-Pad en series, mejoras de usabilidad solicitadas por la comunidad (sonido inicial configurable, selector ordenable A-Z, accesibilidad en ajustes y billboard reforzado).",
-  "releaseNotes": "v1.9.4: Corrección de foco D-Pad en series, mejoras de usabilidad solicitadas por la comunidad (sonido inicial configurable, selector ordenable A-Z, accesibilidad en ajustes y billboard reforzado)."
+  "changelog": "v1.9.5: Persistencia de navegación y foco sin reinicios en catálogos extensos, barra de salto rápido alfabético A-Z (>5.000 títulos), blindaje con tecla Atrás, motor de streaming V2 activo por defecto y texto UX amigable 'Cargando vídeo...'.",
+  "releaseNotes": "v1.9.5: Persistencia de navegación y foco sin reinicios en catálogos extensos, barra de salto rápido alfabético A-Z (>5.000 títulos), blindaje con tecla Atrás, motor de streaming V2 activo por defecto y texto UX amigable 'Cargando vídeo...'."
 }
