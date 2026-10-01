@@ -1,7 +1,7 @@
 {
-  "versionCode": 70,
-  "versionName": "1.9.5",
+  "versionCode": 71,
+  "versionName": "1.9.6",
   "apkUrl": "https://felipesalle.github.io/teveflipe-app-updates/app-armeabi-v7a-debug.apk",
-  "changelog": "v1.9.5: Persistencia de navegación y foco sin reinicios en catálogos extensos, barra de salto rápido alfabético A-Z (>5.000 títulos), blindaje con tecla Atrás, motor de streaming V2 activo por defecto y texto UX amigable 'Cargando vídeo...'.",
-  "releaseNotes": "v1.9.5: Persistencia de navegación y foco sin reinicios en catálogos extensos, barra de salto rápido alfabético A-Z (>5.000 títulos), blindaje con tecla Atrás, motor de streaming V2 activo por defecto y texto UX amigable 'Cargando vídeo...'."
+  "changelog": "v1.9.6: Carga ultrarrápida de carátulas (w185 + caché ampliada), corrección en selección y orden de canales al volver al menú principal, descenso fluido D-pad hacia el abecedario/películas, foco garantizado en menú de audio/subtítulos y streaming continuo V2.",
+  "releaseNotes": "v1.9.6: Carga ultrarrápida de carátulas (w185 + caché ampliada), corrección en selección y orden de canales al volver al menú principal, descenso fluido D-pad hacia el abecedario/películas, foco garantizado en menú de audio/subtítulos y streaming continuo V2."
 }
