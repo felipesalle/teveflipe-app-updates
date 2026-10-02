@@ -1,7 +1,7 @@
 {
-  "versionCode": 71,
-  "versionName": "1.9.6",
+  "versionCode": 72,
+  "versionName": "1.9.7",
   "apkUrl": "https://felipesalle.github.io/teveflipe-app-updates/app-armeabi-v7a-debug.apk",
-  "changelog": "v1.9.6: Carga ultrarrápida de carátulas (w185 + caché ampliada), corrección en selección y orden de canales al volver al menú principal, descenso fluido D-pad hacia el abecedario/películas, foco garantizado en menú de audio/subtítulos y streaming continuo V2.",
-  "releaseNotes": "v1.9.6: Carga ultrarrápida de carátulas (w185 + caché ampliada), corrección en selección y orden de canales al volver al menú principal, descenso fluido D-pad hacia el abecedario/películas, foco garantizado en menú de audio/subtítulos y streaming continuo V2."
+  "changelog": "v1.9.7: Streaming V2 ultra-rápido con scheduler de prioridades (seeks instantáneos de ~1.2s, cancelación inmediata de prebuffer y timeouts inteligentes de 7s), estabilidad total en TDLib con segmentos de 8 MB y corrección en la selección y orden de canales al volver al menú principal.",
+  "releaseNotes": "v1.9.7: Streaming V2 ultra-rápido con scheduler de prioridades (seeks instantáneos de ~1.2s, cancelación inmediata de prebuffer y timeouts inteligentes de 7s), estabilidad total en TDLib con segmentos de 8 MB y corrección en la selección y orden de canales al volver al menú principal."
 }
