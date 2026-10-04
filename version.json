@@ -1,7 +1,7 @@
 {
-  "versionCode": 72,
-  "versionName": "1.9.7",
+  "versionCode": 73,
+  "versionName": "1.9.8",
   "apkUrl": "https://felipesalle.github.io/teveflipe-app-updates/app-armeabi-v7a-debug.apk",
-  "changelog": "v1.9.7: Streaming V2 ultra-rápido con scheduler de prioridades (seeks instantáneos de ~1.2s, cancelación inmediata de prebuffer y timeouts inteligentes de 7s), estabilidad total en TDLib con segmentos de 8 MB y corrección en la selección y orden de canales al volver al menú principal.",
-  "releaseNotes": "v1.9.7: Streaming V2 ultra-rápido con scheduler de prioridades (seeks instantáneos de ~1.2s, cancelación inmediata de prebuffer y timeouts inteligentes de 7s), estabilidad total en TDLib con segmentos de 8 MB y corrección en la selección y orden de canales al volver al menú principal."
+  "changelog": "v1.9.8: Foco cinematográfico ultra-fluido (arranque directo en contenido y preservación exacta de posición al volver de fichas técnicas), menú lateral translúcido sin bordes toscos, integración de Documentales en Películas con chips temáticos [Cine] y [Documentales], y nueva pestaña dinámica de Conciertos & Música.",
+  "releaseNotes": "v1.9.8: Foco cinematográfico ultra-fluido (arranque directo en contenido y preservación exacta de posición al volver de fichas técnicas), menú lateral translúcido sin bordes toscos, integración de Documentales en Películas con chips temáticos [Cine] y [Documentales], y nueva pestaña dinámica de Conciertos & Música."
 }
