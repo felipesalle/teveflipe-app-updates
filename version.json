@@ -1,7 +1,7 @@
 {
-  "versionCode": 73,
-  "versionName": "1.9.8",
+  "versionCode": 74,
+  "versionName": "1.9.9",
   "apkUrl": "https://felipesalle.github.io/teveflipe-app-updates/app-armeabi-v7a-debug.apk",
-  "changelog": "v1.9.8: Foco cinematográfico ultra-fluido (arranque directo en contenido y preservación exacta de posición al volver de fichas técnicas), menú lateral translúcido sin bordes toscos, integración de Documentales en Películas con chips temáticos [Cine] y [Documentales], y nueva pestaña dinámica de Conciertos & Música.",
-  "releaseNotes": "v1.9.8: Foco cinematográfico ultra-fluido (arranque directo en contenido y preservación exacta de posición al volver de fichas técnicas), menú lateral translúcido sin bordes toscos, integración de Documentales en Películas con chips temáticos [Cine] y [Documentales], y nueva pestaña dinámica de Conciertos & Música."
+  "changelog": "v1.9.9: Modo Sagas Cinematográficas con extracción limpia de títulos por película, Home Turbo Fase 1 (cálculos derivados en background sin tirones), Home Turbo Fase 2A (carga progresiva 15->30 tarjetas con cero saltos de DPAD), y TMDb Lazy Focus-Aware Enrichment (prioridad instantánea al elemento y vecinos en foco, reduciendo consumo de red y RAM).",
+  "releaseNotes": "v1.9.9: Modo Sagas Cinematográficas con extracción limpia de títulos por película, Home Turbo Fase 1 (cálculos derivados en background sin tirones), Home Turbo Fase 2A (carga progresiva 15->30 tarjetas con cero saltos de DPAD), y TMDb Lazy Focus-Aware Enrichment (prioridad instantánea al elemento y vecinos en foco, reduciendo consumo de red y RAM)."
 }
