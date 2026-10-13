@@ -1,7 +1,7 @@
 {
-  "versionCode": 74,
-  "versionName": "1.9.9",
+  "versionCode": 75,
+  "versionName": "1.9.10",
   "apkUrl": "https://felipesalle.github.io/teveflipe-app-updates/app-armeabi-v7a-debug.apk",
-  "changelog": "v1.9.9: Modo Sagas Cinematográficas con extracción limpia de títulos por película, Home Turbo Fase 1 (cálculos derivados en background sin tirones), Home Turbo Fase 2A (carga progresiva 15->30 tarjetas con cero saltos de DPAD), y TMDb Lazy Focus-Aware Enrichment (prioridad instantánea al elemento y vecinos en foco, reduciendo consumo de red y RAM).",
-  "releaseNotes": "v1.9.9: Modo Sagas Cinematográficas con extracción limpia de títulos por película, Home Turbo Fase 1 (cálculos derivados en background sin tirones), Home Turbo Fase 2A (carga progresiva 15->30 tarjetas con cero saltos de DPAD), y TMDb Lazy Focus-Aware Enrichment (prioridad instantánea al elemento y vecinos en foco, reduciendo consumo de red y RAM)."
+  "changelog": "v1.9.10: Corrección de navegación y control de mando en reproductor (el botón Atrás físico ahora cierra adecuadamente el menú de Audio y Subtítulos en pantalla completa sin salir a la ficha técnica) y restauración de salto directo D-Pad Abajo desde el Hero a las filas de Continuar Viendo y Mi Lista.",
+  "releaseNotes": "v1.9.10: Corrección de navegación y control de mando en reproductor (el botón Atrás físico ahora cierra adecuadamente el menú de Audio y Subtítulos en pantalla completa sin salir a la ficha técnica) y restauración de salto directo D-Pad Abajo desde el Hero a las filas de Continuar Viendo y Mi Lista."
 }
