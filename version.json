@@ -1,7 +1,7 @@
 {
-  "versionCode": 76,
-  "versionName": "1.9.11",
+  "versionCode": 77,
+  "versionName": "1.9.12",
   "apkUrl": "https://felipesalle.github.io/teveflipe-app-updates/app-armeabi-v7a-debug.apk",
-  "changelog": "v1.9.11: Rediseño cinemático estilo Stremio con ClearLogo oficial transparente, nuevos metadatos enriquecidos (puntuación TMDb, chips de géneros, reparto y dirección), nuevo foco Cian Neón de alto contraste en botones de reproducción, y corrección integral del teclado virtual IME en Fire TV Leanback al pulsar búsqueda en diálogos de póster y metadatos.",
-  "releaseNotes": "v1.9.11: Rediseño cinemático estilo Stremio con ClearLogo oficial transparente, nuevos metadatos enriquecidos (puntuación TMDb, chips de géneros, reparto y dirección), nuevo foco Cian Neón de alto contraste en botones de reproducción, y corrección integral del teclado virtual IME en Fire TV Leanback al pulsar búsqueda en diálogos de póster y metadatos."
+  "changelog": "v1.9.12 (Hotfix Urgente): Corrección crítica en las fichas de Películas, Series y Sagas para garantizar la activación con el botón OK/Enter del mando a distancia en los botones Reproducir, Continuar Viendo, Reproductor Externo (VLC), Mi Lista, Cambiar Carátula y Corregir Información.",
+  "releaseNotes": "v1.9.12 (Hotfix Urgente): Corrección crítica en las fichas de Películas, Series y Sagas para garantizar la activación con el botón OK/Enter del mando a distancia en los botones Reproducir, Continuar Viendo, Reproductor Externo (VLC), Mi Lista, Cambiar Carátula y Corregir Información."
 }
