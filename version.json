@@ -1,7 +1,7 @@
 {
-  "versionCode": 75,
-  "versionName": "1.9.10",
+  "versionCode": 76,
+  "versionName": "1.9.11",
   "apkUrl": "https://felipesalle.github.io/teveflipe-app-updates/app-armeabi-v7a-debug.apk",
-  "changelog": "v1.9.10: Corrección de navegación y control de mando en reproductor (el botón Atrás físico ahora cierra adecuadamente el menú de Audio y Subtítulos en pantalla completa sin salir a la ficha técnica) y restauración de salto directo D-Pad Abajo desde el Hero a las filas de Continuar Viendo y Mi Lista.",
-  "releaseNotes": "v1.9.10: Corrección de navegación y control de mando en reproductor (el botón Atrás físico ahora cierra adecuadamente el menú de Audio y Subtítulos en pantalla completa sin salir a la ficha técnica) y restauración de salto directo D-Pad Abajo desde el Hero a las filas de Continuar Viendo y Mi Lista."
+  "changelog": "v1.9.11: Rediseño cinemático estilo Stremio con ClearLogo oficial transparente, nuevos metadatos enriquecidos (puntuación TMDb, chips de géneros, reparto y dirección), nuevo foco Cian Neón de alto contraste en botones de reproducción, y corrección integral del teclado virtual IME en Fire TV Leanback al pulsar búsqueda en diálogos de póster y metadatos.",
+  "releaseNotes": "v1.9.11: Rediseño cinemático estilo Stremio con ClearLogo oficial transparente, nuevos metadatos enriquecidos (puntuación TMDb, chips de géneros, reparto y dirección), nuevo foco Cian Neón de alto contraste en botones de reproducción, y corrección integral del teclado virtual IME en Fire TV Leanback al pulsar búsqueda en diálogos de póster y metadatos."
 }
