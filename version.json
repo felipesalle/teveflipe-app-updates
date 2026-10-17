@@ -1,7 +1,7 @@
 {
-  "versionCode": 77,
-  "versionName": "1.9.12",
+  "versionCode": 78,
+  "versionName": "1.9.13",
   "apkUrl": "https://felipesalle.github.io/teveflipe-app-updates/app-armeabi-v7a-debug.apk",
-  "changelog": "v1.9.12 (Hotfix Urgente): Corrección crítica en las fichas de Películas, Series y Sagas para garantizar la activación con el botón OK/Enter del mando a distancia en los botones Reproducir, Continuar Viendo, Reproductor Externo (VLC), Mi Lista, Cambiar Carátula y Corregir Información.",
-  "releaseNotes": "v1.9.12 (Hotfix Urgente): Corrección crítica en las fichas de Películas, Series y Sagas para garantizar la activación con el botón OK/Enter del mando a distancia en los botones Reproducir, Continuar Viendo, Reproductor Externo (VLC), Mi Lista, Cambiar Carátula y Corregir Información."
+  "changelog": "v1.9.13: Blindaje definitivo del Motor V2 (reducción de consumo RAM L1 a 16MB, contador atómico sin bloqueos en I/O, soporte HEAD y Range completo, Cache HIT no destructivo del keep-ahead, tolerancia a pausas con reutilización de caché L2). Pantalla de carga cinemática estilo Stremio con barra de progreso integrada dentro del título o ClearLogo. Pulido visual cinemático en Home: ClearLogo en Hero Banner con contenedor anti-desbordes y metadatos limpios, tarjetas 16:9 de Continuar Viendo con prioridad de backdrop, badge de capítulo flotante y barra cian neón, carátulas 2:3 limpias de catálogo y borde de foco unificado en Cian Neón.",
+  "releaseNotes": "v1.9.13: Blindaje definitivo del Motor V2, pantalla de carga estilo Stremio, ClearLogo en Hero, tarjetas 16:9 en Continuar Viendo y carátulas de catálogo limpias con foco Cian Neón."
 }
