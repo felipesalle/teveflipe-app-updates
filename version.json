@@ -1,7 +1,7 @@
 {
-  "versionCode": 78,
-  "versionName": "1.9.13",
+  "versionCode": 81,
+  "versionName": "1.9.16",
   "apkUrl": "https://felipesalle.github.io/teveflipe-app-updates/app-armeabi-v7a-debug.apk",
-  "changelog": "v1.9.13: Blindaje definitivo del Motor V2 (reducción de consumo RAM L1 a 16MB, contador atómico sin bloqueos en I/O, soporte HEAD y Range completo, Cache HIT no destructivo del keep-ahead, tolerancia a pausas con reutilización de caché L2). Pantalla de carga cinemática estilo Stremio con barra de progreso integrada dentro del título o ClearLogo. Pulido visual cinemático en Home: ClearLogo en Hero Banner con contenedor anti-desbordes y metadatos limpios, tarjetas 16:9 de Continuar Viendo con prioridad de backdrop, badge de capítulo flotante y barra cian neón, carátulas 2:3 limpias de catálogo y borde de foco unificado en Cian Neón.",
-  "releaseNotes": "v1.9.13: Blindaje definitivo del Motor V2, pantalla de carga estilo Stremio, ClearLogo en Hero, tarjetas 16:9 en Continuar Viendo y carátulas de catálogo limpias con foco Cian Neón."
+  "changelog": "v1.9.16: Blindaje definitivo de reproducción externa mediante ExternalStreamingService (Foreground Service que protege la prioridad del servidor local y TDLib contra el LMK a oom_score_adj <= 200 al saltar a VLC o reproductores externos). Optimización de memoria en transiciones y desmontaje de bitmaps en RAM. Blindaje del motor V2 para seeks largos (+30 min) con evacuación inmediata de caché L1 de segmentos y suspensión de keep-ahead durante demanda activa. Estabilidad de foco D-pad garantizada al retornar del reproductor externo.",
+  "releaseNotes": "v1.9.16: Blindaje definitivo de reproductor externo (VLC/Just Player) con ExternalStreamingService ante LMK y seeks largos optimizados en V2."
 }
