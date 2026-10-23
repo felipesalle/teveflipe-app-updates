@@ -1,7 +1,7 @@
 {
-  "versionCode": 81,
-  "versionName": "1.9.16",
+  "versionCode": 82,
+  "versionName": "1.9.17",
   "apkUrl": "https://felipesalle.github.io/teveflipe-app-updates/app-armeabi-v7a-debug.apk",
-  "changelog": "v1.9.16: Blindaje definitivo de reproducción externa mediante ExternalStreamingService (Foreground Service que protege la prioridad del servidor local y TDLib contra el LMK a oom_score_adj <= 200 al saltar a VLC o reproductores externos). Optimización de memoria en transiciones y desmontaje de bitmaps en RAM. Blindaje del motor V2 para seeks largos (+30 min) con evacuación inmediata de caché L1 de segmentos y suspensión de keep-ahead durante demanda activa. Estabilidad de foco D-pad garantizada al retornar del reproductor externo.",
-  "releaseNotes": "v1.9.16: Blindaje definitivo de reproductor externo (VLC/Just Player) con ExternalStreamingService ante LMK y seeks largos optimizados en V2."
+  "changelog": "v1.9.17: Balanceo equitativo de últimas novedades entre todos los canales activos (Series TV, Series Retro, Series Españolas, etc.). Blindaje integral de navegación D-pad: cero trampas de foco en catálogos vacíos con botón de exploración directa, retención de foco en carrusel de similares y retorno suave a la cuadrícula. Navegación perfeccionada en el panel de Ajustes y Mi Cuenta: transferencias bidireccionales de foco y retorno al menú lateral con tecla Atrás.",
+  "releaseNotes": "v1.9.17: Catálogo equitativo en novedades de canales activos y blindaje total de foco D-pad y sección de Ajustes."
 }
