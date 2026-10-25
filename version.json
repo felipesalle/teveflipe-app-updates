@@ -1,7 +1,8 @@
 {
-  "versionCode": 82,
-  "versionName": "1.9.17",
+  "versionCode": 83,
+  "versionName": "2.0.0",
   "apkUrl": "https://felipesalle.github.io/teveflipe-app-updates/app-armeabi-v7a-debug.apk",
-  "changelog": "v1.9.17: Balanceo equitativo de últimas novedades entre todos los canales activos (Series TV, Series Retro, Series Españolas, etc.). Blindaje integral de navegación D-pad: cero trampas de foco en catálogos vacíos con botón de exploración directa, retención de foco en carrusel de similares y retorno suave a la cuadrícula. Navegación perfeccionada en el panel de Ajustes y Mi Cuenta: transferencias bidireccionales de foco y retorno al menú lateral con tecla Atrás.",
-  "releaseNotes": "v1.9.17: Catálogo equitativo en novedades de canales activos y blindaje total de foco D-pad y sección de Ajustes."
+  "arm64ApkUrl": "https://felipesalle.github.io/teveflipe-app-updates/app-arm64-v8a-release.apk",
+  "changelog": "TeVeFLIPE v2.0.0 Oficial: Decodificación software FFmpeg integrada para audio Dolby AC3/EAC3 y DTS en proyectores y TV Box económicos. Filtro estricto de categoría KIDS respetando canales activos sin pérdida de catálogo. Optimización de Room SQLite y persistencia de sesión. Insignias técnicas verificadas (4K, 1080p, Dolby, DTS, idiomas) sin falsos positivos y navegación D-pad blindada.",
+  "releaseNotes": "TeVeFLIPE v2.0.0: Audio Dolby/DTS en todos los dispositivos, pestaña KIDS optimizada e insignias técnicas cinemáticas."
 }
