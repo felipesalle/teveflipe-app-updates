@@ -1,8 +1,8 @@
 {
-  "versionCode": 83,
-  "versionName": "2.0.0",
-  "apkUrl": "https://felipesalle.github.io/teveflipe-app-updates/app-armeabi-v7a-debug.apk",
+  "versionCode": 85,
+  "versionName": "2.1.0",
+  "apkUrl": "https://teveflipe.web.app/descargar",
   "arm64ApkUrl": "https://felipesalle.github.io/teveflipe-app-updates/app-arm64-v8a-release.apk",
-  "changelog": "TeVeFLIPE v2.0.0 Oficial: Decodificación software FFmpeg integrada para audio Dolby AC3/EAC3 y DTS en proyectores y TV Box económicos. Filtro estricto de categoría KIDS respetando canales activos sin pérdida de catálogo. Optimización de Room SQLite y persistencia de sesión. Insignias técnicas verificadas (4K, 1080p, Dolby, DTS, idiomas) sin falsos positivos y navegación D-pad blindada.",
-  "releaseNotes": "TeVeFLIPE v2.0.0: Audio Dolby/DTS en todos los dispositivos, pestaña KIDS optimizada e insignias técnicas cinemáticas."
+  "changelog": "Catálogo masivo recuperado, desduplicación inteligente, avance lateral optimizado y reducción drástica de memoria RAM.",
+  "releaseNotes": "TeVeFLIPE v2.1.0: Catálogo masivo recuperado, desduplicación inteligente, avance lateral optimizado y reducción drástica de memoria RAM."
 }
