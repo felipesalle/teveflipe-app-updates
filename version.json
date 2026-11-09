@@ -1,8 +1,8 @@
 {
-  "versionCode": 85,
-  "versionName": "2.1.0",
+  "versionCode": 86,
+  "versionName": "2.2.0",
   "apkUrl": "https://teveflipe.web.app/descargar",
   "arm64ApkUrl": "https://felipesalle.github.io/teveflipe-app-updates/app-arm64-v8a-release.apk",
-  "changelog": "Catálogo masivo recuperado, desduplicación inteligente, avance lateral optimizado y reducción drástica de memoria RAM.",
-  "releaseNotes": "TeVeFLIPE v2.1.0: Catálogo masivo recuperado, desduplicación inteligente, avance lateral optimizado y reducción drástica de memoria RAM."
+  "changelog": "TeVeFLIPE v2.2.0: Nuevo Seek Overlay lateral neon, Motor V3 Hibrido ultrarrapido, purgado y reconciliacion de base de datos Room, blindaje total de foco DPAD y selector de temas estacionales.",
+  "releaseNotes": "TeVeFLIPE v2.2.0: Nuevo Seek Overlay neon, motor V3, reconciliacion de base de datos Room y blindaje de foco DPAD."
 }
