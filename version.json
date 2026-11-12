@@ -1,8 +1,8 @@
 {
-  "versionCode": 86,
-  "versionName": "2.2.0",
+  "versionCode": 87,
+  "versionName": "2.5.0",
   "apkUrl": "https://teveflipe.web.app/descargar",
   "arm64ApkUrl": "https://felipesalle.github.io/teveflipe-app-updates/app-arm64-v8a-release.apk",
-  "changelog": "TeVeFLIPE v2.2.0: Nuevo Seek Overlay lateral neon, Motor V3 Hibrido ultrarrapido, purgado y reconciliacion de base de datos Room, blindaje total de foco DPAD y selector de temas estacionales.",
-  "releaseNotes": "TeVeFLIPE v2.2.0: Nuevo Seek Overlay neon, motor V3, reconciliacion de base de datos Room y blindaje de foco DPAD."
+  "changelog": "TeVeFLIPE v2.5.0: Fichas de detalle completas con sinopsis, caratula y reproduccion directa para tus Peliculas Personales. Nuevo Seek Overlay cinematografico con poster y backdrop durante la carga de saltos largos. Blindaje total de foco y navegacion DPAD en Android TV.",
+  "releaseNotes": "TeVeFLIPE v2.5.0: Fichas completas para Peliculas Personales, Seek Overlay cinematografico y blindaje de foco DPAD en Android TV."
 }
